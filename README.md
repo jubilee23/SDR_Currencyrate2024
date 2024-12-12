@@ -1,6 +1,10 @@
 # SDR_Currencyrate2024
 ## Introduction to SDR Currency Analysis
 In today's global economy, currency is the fundamental medium that enables international trade, business transactions, and profit generation. Without currency, the seamless exchange of goods and services across borders would be impossible. The ability to track and analyze currency performance is essential for making informed financial and business decisions.
+
+ ![](foreign_notes.jpg)
+
+
 This dataset, sourced from Yahoo Finance for the year 2024, provides a detailed look at currency exchange rates over a series of dates. The dataset consists of 8 columns, including:
 1.	Currency
 2.	November 04
