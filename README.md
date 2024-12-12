@@ -1,10 +1,11 @@
 # SDR_Currencyrate2024
-## Introduction to SDR Currency Analysis
-In today's global economy, currency is the fundamental medium that enables international trade, business transactions, and profit generation. Without currency, the seamless exchange of goods and services across borders would be impossible. The ability to track and analyze currency performance is essential for making informed financial and business decisions.
+Track currency rate from november 4th to November 13th 2024
 
  ![](foreign_notes.jpg)
 
 
+## Introduction to SDR Currency Analysis
+In today's global economy, currency is the fundamental medium that enables international trade, business transactions, and profit generation. Without currency, the seamless exchange of goods and services across borders would be impossible. The ability to track and analyze currency performance is essential for making informed financial and business decisions.
 This dataset, sourced from Yahoo Finance for the year 2024, provides a detailed look at currency exchange rates over a series of dates. The dataset consists of 8 columns, including:
 1.	Currency
 2.	November 04
@@ -15,6 +16,7 @@ This dataset, sourced from Yahoo Finance for the year 2024, provides a detailed 
 7.	November 11
 8.	November 12
 9.	November 13
+
 Each row represents a currency, and the columns corresponding to the dates show how the exchange rate fluctuated over the specified days. This allows for a clear understanding of whether a currency's value increased or decreased over time.
 ________________________________________
 ## Purpose of the Dataset
